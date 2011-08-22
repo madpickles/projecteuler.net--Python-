@@ -22,9 +22,9 @@ def sum_multiples_of_3_and_5_v3():
 
 
 def main():
-  print (sum_multiples_of_3_and_5_v1(), sum_multiples_of_3_and_5_v2(),
-         sum_multiples_of_3_and_5_v3())
+    print (sum_multiples_of_3_and_5_v1(), sum_multiples_of_3_and_5_v2(),
+           sum_multiples_of_3_and_5_v3())
 
 
 if __name__ == '__main__':
-  main()
+    main()
